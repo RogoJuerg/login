@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "login-1f3ed": {
+      "hosting": {
+        "login": [
+          "login-1f3ed"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "login-1f3ed"
+  }
+}
